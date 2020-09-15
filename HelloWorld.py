@@ -1,1 +1,3 @@
-print("Welcome to the world of Python Programming!")
+var1 = "hello"
+del var1
+print(var1)
