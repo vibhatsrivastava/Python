@@ -356,3 +356,6 @@ questions.txt
 
 # Ignore Playground folder
 playground/*
+
+#Ignore virtual environment directory
+.virtualenv/*
